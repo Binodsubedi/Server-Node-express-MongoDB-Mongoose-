@@ -1,0 +1,5 @@
+{
+    "main_route": "Machhegaun-Ratnapark",
+    "sub_route":["Machhegaun","Kirtipur","Balkhu","Kuleshwor","Kalimati","Teku","Tripureshwor","Ratnapark"],
+    "distance":[0,3.5,4,6.8,7.7,8.8,9,10]
+}
